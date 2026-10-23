@@ -1,0 +1,4 @@
+===Nuevo Registro===	
+Nombre: LabRedes	|Fabricante: Netgear	|Estado: Inactivo	|Potencia: 2.400000Ghz	|Resultado: 6.000000
+===Nuevo Registro===	
+Nombre: Alfa	|Fabricante: Netgear	|Estado: Inactivo	|Puertos: 3.000000	|Resultado: 9.000000

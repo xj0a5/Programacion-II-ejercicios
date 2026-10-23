@@ -1,0 +1,10 @@
+Ganancia(dBi): 234
+Ganancia(dBi): 1024
+Ganancia(dBi): 85
+Ganancia(dBi): 4096
+Ganancia(dBi): 512
+Ganancia(dBi): 128
+Ganancia(dBi): 890
+Ganancia(dBi): 3450
+Ganancia(dBi): 42
+Ganancia(dBi): 1500

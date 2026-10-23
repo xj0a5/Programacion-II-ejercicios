@@ -1,0 +1,1 @@
+int espaciarstr(char str[],int pos, char caracter);

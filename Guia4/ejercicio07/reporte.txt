@@ -1,0 +1,19 @@
+Medición Nro 0:-90 dBm
+Medición Nro 1:-79 dBm
+Medición Nro 2:-49 dBm
+Medición Nro 3:-60 dBm
+Medición Nro 4:-34 dBm
+Medición Nro 5:-75 dBm
+Medición Nro 6:-60 dBm
+Medición Nro 7:-100 dBm
+Medición Nro 8:-54 dBm
+Medición Nro 9:-98 dBm
+===Promedio:-69 ===
+===Mediciones menores a -80dBm===(3 mediciones)
+-90 dBm
+-100 dBm
+-98 dBm
+===Mediciones mayores a -60dBm===(3 mediciones)
+-49 dBm
+-34 dBm
+-54 dBm

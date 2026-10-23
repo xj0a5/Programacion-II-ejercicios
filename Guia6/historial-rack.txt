@@ -1,0 +1,15 @@
+===Nuevo Registro===	Pack Router
+Router 1 - Potencia: 50.000000	|Canal: 1300.000000
+Router 2 - Potencia: 50.000000	|Canal: 1300.000000
+Router 3 - Potencia: 50.000000	|Canal: 1300.000000
+
+===Nuevo Registro===	Pack Router
+Router 1 - Potencia: 50.000000	|Canal: 1300.000000
+Router 2 - Potencia: 50.000000	|Canal: 1300.000000
+Router 3 - Potencia: 50.000000	|Canal: 1300.000000
+
+===Nuevo Registro===	Pack Router
+Router 1 - Potencia: 50.000000	|Canal: 1300.000000
+Router 2 - Potencia: 50.000000	|Canal: 1300.000000
+Router 3 - Potencia: 50.000000	|Canal: 1300.000000
+

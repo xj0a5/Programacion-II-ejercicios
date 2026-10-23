@@ -1,0 +1,1 @@
+int comprobarmediciones(int dato,int limitesup,int limiteinf);

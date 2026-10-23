@@ -1,0 +1,4 @@
+Destino: 192.168.1.152 	|GW: 192.168.202.1	|Metrica: 2
+Destino: 192.168.1.29 	|GW: 192.168.243.1	|Metrica: 0
+Destino: 192.168.1.152 	|GW: 192.168.126.1	|Metrica: 2
+Destino: 192.168.1.226 	|GW: 192.168.171.1	|Metrica: 3

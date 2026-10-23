@@ -1,0 +1,4 @@
+Red: Red-Norte	|Nodos: 3
+Nombre: TX-Norte	|Estado: ON	|Potencia(dBA): 43
+Nombre: TX-Este	|Estado: ON	|Potencia(dBA): 40
+Nombre: TX-Sur	|Estado: ON	|Potencia(dBA): 37

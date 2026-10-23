@@ -1,0 +1,1 @@
+int operacion(int a,int b,char x);

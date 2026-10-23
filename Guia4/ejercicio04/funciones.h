@@ -1,0 +1,1 @@
+int verificar_argc(int argc, int limite);
