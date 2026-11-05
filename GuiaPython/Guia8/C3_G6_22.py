@@ -13,7 +13,7 @@ Z = R * np.exp(1j * Theta) - 1j
 
 # 3. Aplicar la transformación (Inciso que corresponda)
 # Para los próximos incisos, solo tenés que modificar esta línea
-W = np.exp(Z)
+W = np.cosh(Z)
 
 # 4. Configurar el lienzo de Matplotlib
 plt.figure(figsize=(12, 6))
