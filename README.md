@@ -15,4 +15,5 @@ Abrí tu terminal (Bash), cloná el repositorio (o descargalo) y ejecutá los si
 	pip install -r requirements.txt
 
 # 2. Ejecutar el script que desees:
-	python nombre_del_archivo.py
+	python nombre_del_archivo.py	# <- Archivos python
+	./nombre_del_programa	# <- Archivos para C y C++
