@@ -64,7 +64,7 @@ def main():
     
     # Subplot 2: Tecla 9
     plt.subplot(2, 1, 2)
-    plt.plot(t_9[:limite_idx] * 1000, senal_9[:limite_idx], color="teal")
+    plt.plot(t_9[:limite_idx] * 1000, senal_9[:limite_idx], color="blue")
     plt.title("Tono DTMF - Tecla 9 (Primeros 20 ms)")
     plt.xlabel("Tiempo [ms]")
     plt.ylabel("Amplitud")
@@ -73,4 +73,5 @@ def main():
     plt.tight_layout()
     plt.show()
 
-main()
+if __name__ == '__main__':
+    main()
